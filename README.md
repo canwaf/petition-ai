@@ -6,3 +6,7 @@ Collaborate through issues or pull requests.
 ## Why now?
 
 Want to get a petition in pretty quickly, but primiarly sparked by the recent (and silent) opt-in of LinkedIn for all non-EU users on training for their GenAI sludge products.
+
+## Contributing
+
+The petition's current state can be found in [petition.md](./petition.md).
